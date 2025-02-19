@@ -1,3 +1,5 @@
+![trenches_cover_v1](https://github.com/user-attachments/assets/ce61e98a-e4d6-4c35-b5c7-4213154ea982)
+
 # Trenches Core
 The heart of The Trenches App—AI agents digging alpha from the blockchain mud. Built by Ryn Voss | The Trench Commander.
 
